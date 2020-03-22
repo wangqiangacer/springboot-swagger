@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+jasypt:
+  encryptor:
+    password: 123456
